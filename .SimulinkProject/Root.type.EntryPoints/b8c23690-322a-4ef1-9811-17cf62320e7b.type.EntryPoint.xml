@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Name="Save Model Files" Type="Batch Job" File="batch_jobs/saveModelFiles.m" GroupUUID="bf72ee6c-cac0-40ee-84ab-707cd14f8416" />
